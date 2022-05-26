@@ -9,6 +9,6 @@ begin
         write(c,' ');
         c:=c+1;
     end;
-    write();
+    writeln();
 end;
 end.
